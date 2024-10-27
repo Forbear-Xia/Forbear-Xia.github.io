@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Teams
+title: Photos
 ---
 
 > 平芜尽处是春山，行人更在春山外。
