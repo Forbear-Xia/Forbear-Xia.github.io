@@ -16,7 +16,7 @@ owner:
  # github: GuangLun2000    
  # linkedin: hanlincai  
  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 667981017  
+  bilibili: 667981017
  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
  # zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002    
@@ -38,16 +38,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Publication
-    url: /publication/
+  - title: Research
+    url: /books/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Books 
-    url: /books/
-  - title: Teams
-    url: /teams/
+  - title: Links 
+    url: /links/
+  - title: Photos
+    url: /photos/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
