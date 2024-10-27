@@ -6,7 +6,7 @@ title: Research
 
 ## Degree Thesis  
 
-- [Lubin-Tate Theory and Nullstellensatz Theorem (Lubin-Tate理论与零点定理)](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Zhenpeng Li** (Advisor: Prof. Enlin Yang). **Excellent Bachelor Thesis Award**.<br>
+- [Lubin-Tate Theory and Nullstellensatz Theorem (Lubin-Tate理论与零点定理)](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Zhenpeng Li** (Advisor: Prof. Enlin Yang).<br>**Excellent Bachelor Thesis Award**.<br>July 2024.<br>
 
 ---
 
