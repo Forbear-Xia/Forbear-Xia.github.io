@@ -8,32 +8,35 @@ layout: page
 
 Here is **Zhenpeng Li (李振鹏)**.<br> 
 
-I am a graduate student in the Department of Mathematics at Bonn University. Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am a graduate student in the Department of Mathematics at Bonn University. Prior to Bonn, I have worked on **homotopy theory and number theory** with [Prof. Hana Jia Kong](https://hanajiakong.github.io/), [Prof. Guchuan Li](https://guchuanli.github.io/) and [Prof. Enlin Yang](https://www.math.pku.edu.cn/teachers/yangenlin/ely.htm).<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 2262644847 [at] qq.com
+
+
+
+
+
+
+
+
+
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 2262644847 [at] qq.com.
 
 ---
 
 ## Research Interests
 
-**I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me!**
 
 - Algebraic K-theory
 - Chromatic Homotopy Theory
 - Prismatic Cohomology
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on equivariant branches and detailed computations in homotopy theory and number theory. I wish to devote my talent to this meaningful cause and bring a contribution to the academy.
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **June 2024**：Very excited to complete my undergraduate program at Peking University during my four years.
 
 <br>
 
