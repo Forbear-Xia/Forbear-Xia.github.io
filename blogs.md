@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blogs/index.html
-title: Blogs
+permalink: /books/index.html
+title: Books
 ---
 
 ## Chinese Blogs
