@@ -1,7 +1,7 @@
 ---
 layout: page 
-permalink: /publication/index.html 
-title: Publication
+permalink: /links/index.html 
+title: Links
 ---
 
 ## Degree Thesis  
