@@ -1,7 +1,7 @@
 ---
 layout: page 
-permalink: /publications/index.html 
-title: Publications 
+permalink: /books/index.html 
+title: Publications  
 ---
 
 ## Degree Thesis 
