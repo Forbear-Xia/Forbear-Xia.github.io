@@ -43,8 +43,8 @@ links:
   - title: Awards
     url: /awards/
   - title: Links
-    url: /links/
-  - title: Photos
+    url: /links/#
+  - title: Photos       
     url: /photos/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
