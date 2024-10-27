@@ -1,14 +1,8 @@
 ---
 layout: page
-permalink: /books/index.html
-title: Books
+permalink: /research/index.html
+title: Research
 ---
-
-## Chinese Blogs
-
-### 2024
-哈哈哈
-<br>
 
 ## Degree Thesis  
 
