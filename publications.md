@@ -18,7 +18,7 @@ title: Publications 
 - [Notes on the Disproof of Telescope Conjecture](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>**Zhenpeng Li** (Advisor: Prof. Guchuan Li)<br> [Syllabus](https://ojs.aaai.org/index.php/AAAI/article/view/30544). February 2023.<br>
 
 
-- [Notes on the Sphere Packing Problems](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<be> Hang Chen and **Zhenpeng Li**<br>July 2023.<br>
+- [Notes on the Sphere Packing Problems](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br> Hang Chen and **Zhenpeng Li**<br>July 2023.<br>
 
 - [Notes on Conjecture for Cusp Forms of Weight Zero](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br> **Zhenpeng Li** and **Bowen Xue**<br>May 2022.<br>
 
