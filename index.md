@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://zhenpeng-li.github.io/blogs/web.assets/e1a1b36d289e2401b82180cd06e928d.jpg" class="floatpic">
 
-Here is **Zhenpeng Li (李振鹏)**.<br> 
+Here is **Zhenpeng Li (李振鹏)**.<br>  
 
 I am a graduate student in the Department of Mathematics at Bonn University. Prior to Bonn, I have worked on **homotopy theory and number theory** with [Prof. Hana Jia Kong](https://hanajiakong.github.io/), [Prof. Guchuan Li](https://guchuanli.github.io/) and [Prof. Enlin Yang](https://www.math.pku.edu.cn/teachers/yangenlin/ely.htm).<br>
 
