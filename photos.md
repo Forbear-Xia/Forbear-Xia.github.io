@@ -10,21 +10,21 @@ title: Photos
 ## Moments of Us
 
 <div>
-<img src="https://zhenpeng-li.github.io/blogs/web.assets/Photo1.jpg">
+<img src="https://zhenpeng-li.github.io/images/Photo1.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://zhenpeng-li.github.io/blogs/web.assets/Photo2.jpg">
+<img src="https://zhenpeng-li.github.io/images/Photo2.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://zhenpeng-li.github.io/blogs/web.assets/Photo3.jpg">
+<img src="https://zhenpeng-li.github.io/images/Photo3.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://zhenpeng-li.github.io/blogs/web.assets/Photo4.jpg">
+<img src="https://zhenpeng-li.github.io/images/Photo4.jpg">
 </div>
 <br>
