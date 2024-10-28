@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zhenpeng-li.github.io/photo/homepage.jpg" class="floatpic">
+<img src="https://zhenpeng-li.github.io/blogs/web.assets/homepage.jpg" class="floatpic">
 
 Here is **Zhenpeng Li (李振鹏)**.<br>  
 
