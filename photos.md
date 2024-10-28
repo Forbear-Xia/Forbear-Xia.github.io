@@ -10,21 +10,21 @@ title: Photos
 ## Moments of Us
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams1.jpg">
+<img src="https://zhenpeng-li.github.io/blogs/web.assets/photo1.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams2.jpg">
+<img src="https://zhenpeng-li.github.io/blogs/web.assets/photo2.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams.jpg">
+<img src="https://zhenpeng-li.github.io/blogs/web.assets/photo3.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://caihanlin.com/images/teams/teams4.jpg">
+<img src="https://zhenpeng-li.github.io/blogs/web.assets/photo4.jpg">
 </div>
 <br>
