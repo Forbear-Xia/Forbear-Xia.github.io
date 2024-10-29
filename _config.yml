@@ -45,7 +45,9 @@ links:
   - title: Links
     url: /links/#
   - title: Photos       
-    url: /photos/
+    url: /photos/    
+  - title: Test
+    url: /test/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
