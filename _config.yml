@@ -7,7 +7,8 @@ url: https://Zhenpeng-Li.github.io
 # Owner/author information
 owner:
   name: Zhenpeng Li
-  avatar: avatar.jpg
+  affiliation: Bonn University
+  avatar: avatar.jpg  
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 2262644847@qq.com
   cv: https://zhenpeng-li.github.io/file/CV.pdf
@@ -42,12 +43,12 @@ links:
     url: /research/
   - title: Awards
     url: /awards/
+  - title: Seminars
+    url: /seminars/
   - title: Links
     url: /links/
   - title: Photos
     url: /photos/
-  - title: Test
-    url: /test/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
