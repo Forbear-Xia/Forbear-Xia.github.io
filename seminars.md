@@ -6,8 +6,8 @@ title: Seminars
 
 - [Homotopy Day](https://zhenpeng-li.github.io/mypaper/syllabus_homotopyday.pdf)<br>
 June 17th, 2024. Zhihua Building.<br>
-Speakers: Xingzhu Fang, Zhenpeng Li, Chenglong Ma, and Jiangnan Xiong.<br>
-Sponsored by Hope Online.<br>
+Speakers: Xingzhu Fang, Zhenpeng Li, Chenglong Ma, Jiangnan Xiong, and Shize Hao.<br>
+Sponsored by Hope Online.<br> 
 
 - [Telescope Conjecture](https://zhenpeng-li.github.io/mypaper/syllabus_telescope.pdf)<br>
 Summer 2024. Monday 10 a.m. to 12 a.m. BICMR.<br>
