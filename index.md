@@ -6,7 +6,7 @@ layout: page
 Here is **Zhenpeng Li (李振鹏)**.
 <br>
 
-I am a graduate student in the Department of Mathematics at Bonn University. Prior to Bonn, I have worked on **homotopy theory and number theory** with [Prof. Hana Jia Kong](https://hanajiakong.github.io/), [Prof. Guchuan Li](https://guchuanli.github.io/) and [Prof. Enlin Yang](https://www.math.pku.edu.cn/teachers/yangenlin/ely.htm).<br>
+I am a graduate student in the Department of Mathematics at Bonn University. Prior to Bonn, I worked on **homotopy theory and number theory** with [Prof. Hana Jia Kong](https://hanajiakong.github.io/), [Prof. Guchuan Li](https://guchuanli.github.io/) and [Prof. Enlin Yang](https://www.math.pku.edu.cn/teachers/yangenlin/ely.htm).<br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 2262644847 [at] qq.com.
 
@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Chromatic Homotopy Theory
 - Prismatic Cohomology
 
-My current research focuses on equivariant branches and detailed computations in homotopy theory and number theory. I wish to devote my talent to this meaningful cause and bring a contribution to the academy.
+Picture a mathematical landscape where numbers dance, shapes come alive, and symmetries whisper their secrets. It is within this captivating realm that homotopy theory and number theory thrive, capturing the minds of mathematicians, and capturing mine as well. My current research focuses on equivariant branches and detailed computations in these fields. I wish to devote my talent to this meaningful cause and bring a contribution to the academy.
 
 ---
 
