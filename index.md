@@ -3,16 +3,15 @@ layout: page
 ---
 <img src="https://zhenpeng-li.github.io/images/homepage.jpg" class="floatpic">
 
-Here is **Zhenpeng Li (李振鹏)**.
-<br>
+Here is **Zhenpeng Li** (李振鹏,字敛翮). <br>
 
 I am a graduate student in the Department of Mathematics at Bonn University. Prior to Bonn, I worked on **homotopy theory and number theory** with [Prof. Hana Jia Kong](https://hanajiakong.github.io/), [Prof. Guchuan Li](https://guchuanli.github.io/) and [Prof. Enlin Yang](https://www.math.pku.edu.cn/teachers/yangenlin/ely.htm).<br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 2262644847 [at] qq.com.
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 2262644847 [at] qq.com.<br>
 
 ---
 
-## Research Interests
+### Research Interests
 
 
 - Algebraic K-theory
@@ -23,7 +22,7 @@ Picture a mathematical landscape where numbers dance, shapes come alive, and sym
 
 ---
 
-# News and Updates
+### News and Updates
 
 - **June 2024**：Very excited to complete my undergraduate program at Peking University during my four years.
 
