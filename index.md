@@ -23,7 +23,7 @@ Picture a mathematical landscape where numbers dance, shapes come alive, and sym
 
 ---
 
-## News and Updates
+# News and Updates
 
 - **June 2024**：Very excited to complete my undergraduate program at Peking University during my four years.
 
