@@ -2,13 +2,13 @@ title: Hanlin Cai
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: 
+url: https://forbear-xia.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  name: Xinyu Xia
+  avatar: 1.jpg
+  bio: 我们必须知道，我们终将知道
   email: hanlin.cai@ieee.org
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
