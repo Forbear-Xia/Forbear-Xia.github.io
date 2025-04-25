@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://Forbear-Xia.github.io/2.jpg" class="floatpic">
 
 Here is **Forbear Xia (夏心雨)**.<br>
 
