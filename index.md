@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Forbear-Xia.github.io/2.jpg" class="floatpic" style="width: 180px; height: auto; border: 2px solid #eee; margin-right: 20px;">
+<img src="https://Forbear-Xia.github.io/2.jpg" class="floatpic" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
 
 Here is **Forbear Xia (夏心雨)**.<br>
 
