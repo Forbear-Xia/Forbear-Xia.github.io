@@ -12,7 +12,7 @@ title: Research
 
 ## Systematic Notes 
 
-- [The Pollution Premium](https://Forbear-Xia.github.io/research/The Pollution Premium.pdf))<br>***Forbear Xinyu Xia** (Advisor: Prof. Kai Li and Prof. Chu Zhang)<br>December 2024.
+- [The Pollution Premium](https://Forbear-Xia.github.io/research/The Pollution Premium.pdf)<br>**Forbear Xinyu Xia** (Advisor: Prof. Kai Li and Prof. Chu Zhang)<br>December 2024.
 
 
 - [The Price of Higher Order Catastrophe Insurance: The Case of VIX Options](https://zhenpeng-li.github.io/mypaper/telescope.pdf)<br>**Forbear Xinyu Xia** (Advisor: Prof. Aoxiang Yang and Prof. Hengjie Ai)<br> [Syllabus](https://zhenpeng-li.github.io/mypaper/syllabus_telescope.pdf). February 2024.<br>
