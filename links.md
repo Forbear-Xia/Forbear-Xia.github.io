@@ -15,6 +15,6 @@ title: Links
 
 [SMS-PKU](https://www.math.pku.edu.cn/index.html)<br>
 [KIAA-PKU](https://kiaa.pku.edu.cn/index.html)
-</div>
+
 <br>
 <br>
