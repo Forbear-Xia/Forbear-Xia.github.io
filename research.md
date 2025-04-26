@@ -6,13 +6,13 @@ title: Research
 
 ## Degree Thesis  
 
-- [Lubin-Tate Theory and Nullstellensatz Theorem (Lubin-Tate理论与零点定理)](https://zhenpeng-li.github.io/mypaper/Thesis.pdf)<br>**Zhenpeng Li** (Advisor: Prof. Enlin Yang).<br>**Excellent Bachelor Thesis Award** at Peking University.<br>July 2024.<br>
+- [Lubin-Tate Theory and Nullstellensatz Theorem (Lubin-Tate理论与零点定理)](https://zhenpeng-li.github.io/mypaper/Thesis.pdf)<br>**Forbear Xinyu Xia** (Advisor: Prof. Kai Li ).<br>**Excellent Bachelor Thesis Award** at Peking University.<br>July 2024.<br>
 
 ---
 
 ## Systematic Notes 
 
-- [Norms in Motivic Homotopy Theory](https://zhenpeng-li.github.io/mypaper/Norms_in_Motivic_Homotopy_Theory.pdf)<br>**Zhenpeng Li** (Advisor: Prof. Hana Jia Kong)<br>July 2024.
+- [Norms in Motivic Homotopy Theory](https://zhenpeng-li.github.io/mypaper/Norms_in_Motivic_Homotopy_Theory.pdf)<br>***Forbear Xinyu Xia** (Advisor: Prof. Hana Jia Kong)<br>July 2024.
 
 
 - [Notes on the Disproof of Telescope Conjecture](https://zhenpeng-li.github.io/mypaper/telescope.pdf)<br>**Zhenpeng Li** (Advisor: Prof. Guchuan Li)<br> [Syllabus](https://zhenpeng-li.github.io/mypaper/syllabus_telescope.pdf). February 2023.<br>
