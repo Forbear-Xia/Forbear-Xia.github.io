@@ -12,7 +12,7 @@ title: Awards
 - Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
 - Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
 - May 2023：XiamenAir Scholarship ($600)<br>
-- Undergraduate Students, China
+- Summa cumme laude， Undergraduate Students, China
 - **National Scholarship** for undergraduate, China,2023 (0.1%)<br>
 - **National Scholarship** for undergraduate, China,2022 (0.1%)<br>
 - **National Scholarship** for undergraduate, China,2021 (0.1%)<br>
