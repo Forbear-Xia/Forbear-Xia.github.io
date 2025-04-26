@@ -12,8 +12,8 @@ owner:
   email: xiaxinyu.summer@gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  Red: https://www.xiaohongshu.com/user/profile/5e25cc01000000000100bb93?xsec_token=YBZTIK9xdOmIdz_ta3ujOrhoJV1Ep7dGEW67gGg10UxJM=&xsec_source=app_share&xhsshare=CopyLink&appuid=5e25cc01000000000100bb93&apptime=1745582604&share_id=f524e034ff6e48fb9b569040093fc6c3
-  # github: GuangLun2000
+  # Red:
+   github:  https://www.xiaohongshu.com/user/profile/5e25cc01000000000100bb93?xsec_token=YBZTIK9xdOmIdz_ta3ujOrhoJV1Ep7dGEW67gGg10UxJM=&xsec_source=app_share&xhsshare=CopyLink&appuid=5e25cc01000000000100bb93&apptime=1745582604&share_id=f524e034ff6e48fb9b569040093fc6c3
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # bilibili: 594030035
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
