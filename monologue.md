@@ -13,25 +13,11 @@ title: Monologue
 <img src="https://zhenpeng-li.github.io/images/Photo1.jpg">
 </div>
 <br>
+
+
+## A thousand Splendid Suns
 ---
 > <font size="1"> "May you find the happiness, peace, and acceptance that I did no give you. Be well. I'll leave you in the loving hands of god."
----
-
-## A thousand Splendid Suns
----
-<div>
-<img src="https://zhenpeng-li.github.io/images/Photo2.jpg">
-</div>
-<br>
-
-## A thousand Splendid Suns
----
-<div>
-<img src="https://zhenpeng-li.github.io/images/Photo2.jpg">
-</div>
-<br>
-
-## A thousand Splendid Suns
 ---
 <div>
 <img src="https://zhenpeng-li.github.io/images/Photo2.jpg">
