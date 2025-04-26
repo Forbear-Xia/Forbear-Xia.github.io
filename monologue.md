@@ -8,19 +8,25 @@ title: Monologue
 
 
 ## Blade Runner
-> <font size="1"> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
+---
+> <font size="1"> I've seen things you people wouldn't believe. <br>
+Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate.<br>
+ All those moments will be lost in time, like tears in rain.
+> ---
 <div>
-<img src="https://zhenpeng-li.github.io/images/Photo1.jpg">
+<img src="https://Forbear-Xia.github.io/images/3.jpg">
 </div>
 <br>
 
 
 ## A thousand Splendid Suns
 ---
-> <font size="1"> "May you find the happiness, peace, and acceptance that I did no give you. Be well. I'll leave you in the loving hands of god."
----
+> <font size="1"> "May you find the happiness, peace, and acceptance that I did no give you.<br>
+Be well.<br>
+I'll leave you in the loving hands of god.<br>
+> ---
 <div>
-<img src="https://zhenpeng-li.github.io/images/Photo2.jpg">
+<img src="https://Forbear-Xia.github.io/images/4.jpg">
 </div>
 <br>
 
