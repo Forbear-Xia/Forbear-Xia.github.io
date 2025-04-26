@@ -9,7 +9,6 @@ title: Photos
 
 
 ## Moments in Youth
-
 <div>
 <img src="https://Forbear-Xia.github.io/images/3.jpg">
 </div>
