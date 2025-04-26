@@ -10,17 +10,12 @@ title: Photos
 
 ## Moments in Youth
 <div>
-<img src="https://Forbear-Xia.github.io/images/3.jpg">
-</div>
-<br>
-
-<div>
 <img src="https://Forbear-Xia.github.io/images/4.jpg">
 </div>
 <br>
 
 <div>
-<img src="、https://Forbear-Xia.github.io/images/5.jpg">
+<img src="https://Forbear-Xia.github.io/images/5.jpg">
 </div>
 <br>
 
@@ -28,3 +23,4 @@ title: Photos
 <img src="、https://Forbear-Xia.github.io/images/6.jpg">
 </div>
 <br>
+
