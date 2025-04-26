@@ -14,7 +14,7 @@ Also, My current research focuses on asset pricing via machine learning, and I'm
 Prior to PHBS,  I have worked on System Engineering with [Prof. Jingjuan Jiao](http://sem.bjtu.edu.cn/show-594-205.html) at Beijing Jiaotong University. <br>
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - 1095798330[at]qq.com<br>
 **<font color="#990000">I am actively seeking a PhD position for 2027 Fall admission. If you have any information, please contact me. Thank you!</font>**
----
+
 
 ## Research Interests
 
