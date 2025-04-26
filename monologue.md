@@ -1,19 +1,24 @@
 ---
 layout: page
 permalink: /photos/index.html
-title: Photos
+title: Monologue
 ---
-> <font size="1"> 多情自古伤离别，更那堪，冷落清秋节。今宵酒醒何处？杨柳岸、晓风残月。此去经年，应是良辰好景虚设。便纵有千种风情，更与何人说。</font>
+> <font size="1"> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
 ---
 
 
-## Moments of Us
+## Blade Runner
 
 <div>
 <img src="https://zhenpeng-li.github.io/images/Photo1.jpg">
 </div>
 <br>
+---
+> <font size="1"> "May you find the happiness, peace, and acceptance that I did no give you. Be well. I'll leave you in the loving hands of god."
+---
 
+## Blade Runner
+---
 <div>
 <img src="https://zhenpeng-li.github.io/images/Photo2.jpg">
 </div>
