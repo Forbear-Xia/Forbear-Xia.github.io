@@ -12,7 +12,7 @@ title: Links
  [NBER](https://www.nber.org/papers?page=1&perPage=50&sortBy=public_date)<br>
 
 ## Guest of Honor
-<div>
+
 [SMS-PKU](https://www.math.pku.edu.cn/index.html).<br>
 [KIAA-PKU](https://kiaa.pku.edu.cn/index.html)
 </div>
