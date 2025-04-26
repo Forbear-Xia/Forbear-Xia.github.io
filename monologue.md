@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /photos/index.html
+permalink: /monologue/index.html
 title: Monologue
 ---
 
