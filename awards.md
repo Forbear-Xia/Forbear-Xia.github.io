@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Summa cum laude, Beijing， China
+- Summa Cum Laude, Beijing, China
 - **National Scholarship** for undergraduate, China, 2023 (0.1%)<br>
 - **National Scholarship** for undergraduate, China, 2022 (0.1%)<br>
 - **National Scholarship** for undergraduate, China, 2021 (0.1%)<br>
