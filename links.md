@@ -3,6 +3,7 @@ layout: page
 permalink: /links/index.html
 title: Links
 ---
+## Guest of Honor
 [Kai Li](https://english.phbs.pku.edu.cn/2021/fulltime_0317/140.html), [Chu Zhang](https://fina.hkust.edu.hk/faculty/directory/czhang)<br>
 [Xianhua Peng](https://english.phbs.pku.edu.cn/2018/fulltime_0831/104.html), [Haiyang Zheng](https://english.phbs.pku.edu.cn/info/3812/44592.html)<br>
 [Aoxiang Yang](https://english.phbs.pku.edu.cn/info/3812/44212.htm),[Hengjie Ai](https://business.wisc.edu/directory/profile/hengjie-ai/)<br>
@@ -11,7 +12,7 @@ title: Links
 [Zhiguo He](https://www.gsb.stanford.edu/faculty-research/faculty/zhiguo-he),
  [NBER](https://www.nber.org/papers?page=1&perPage=50&sortBy=public_date)<br>
 
-## Guest of Honor
+## Institution of Honor
 
 [SMS-PKU](https://www.math.pku.edu.cn/index.html)<br>
 [KIAA-PKU](https://kiaa.pku.edu.cn/index.html)
