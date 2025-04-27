@@ -46,8 +46,8 @@ links:
     url: /seminars/
   - title: Links
     url: /links/
-  - title: Monologue
-    url: /monologue/
+  #- title: Monologue
+  #  url: /monologue/
   - title: Reminiscence
     url: /reminiscence/
 
