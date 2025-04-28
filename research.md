@@ -18,7 +18,6 @@ title: Research
 
 - [How Much Can Machines Learn Finance from Chinese Text Data?](https://Forbear-Xia.github.io/research/zhou-et-al-2024-how-much-can-machines-learn-finance-from-chinese-text-data.pdf)<br>**Forbear Xinyu Xia** (Advisor: Prof. Jianqing Fan and Prof. Weinan E)  <br>August 2024.<br>
 
-- [Notes on the Sphere Packing Problems](https://zhenpeng-li.github.io/mypaper/A_Concise_Explanation_of_the_Sphere_Packing_Problem_in_Dimension_8.pdf)<br> **Forbear Xinyu Xia**(Prof. Jingjuan Jiao) <br>June 2023.<br>
 ---
 
 ## Teaching Assistance
