@@ -22,6 +22,6 @@ title: Research
 ## Conferences
 [AQFC 2025](https://aqfc2025.phbs.pku.edu.cn/index.htm)<br>
 **Peking University HSBC Buisiness Shcool, China**<br>
-[PHBS-IER](https://www.phbs.pku.edu.cn/info/1421/95141.htm)
+[PHBS-IER](https://www.phbs.pku.edu.cn/info/1421/95141.htm)<br>
 **Peking University HSBC Buisiness Shcool, China**<br>
 <br>
