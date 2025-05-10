@@ -13,8 +13,8 @@ title: Links
 
 ## Institution 
 
-[SMS-PKU](https://www.math.pku.edu.cn/index.html)<br>
-[KIAA-PKU](https://kiaa.pku.edu.cn/index.html)<br>
+[SMS-PKU](https://www.math.pku.edu.cn/index.htm)<br>
+[KIAA-PKU](https://kiaa.pku.edu.cn/index.htm)<br>
 [IFFF](http://www.iiif.tsinghua.edu.cn/)<br>
 <br>
 <br>
